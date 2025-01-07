@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @autarky9
 - 👀 I’m interested in Cyber Security,Software Engineer and Web Development 
 - 🌱 I’m currently learning JavaScript,PHP, and Python
-- 💞️ I’m looking to collaborate on -
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I LOVE MATCHA SO MUCH!!! 
 
 <!---
